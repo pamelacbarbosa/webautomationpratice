@@ -3,6 +3,8 @@ Documentation   Cenários de testes relacionado ao login da aplicação
 
 Resource        ../../src/config/package.resource
 
+Test Setup Abrir a sessão
+Test Teardown Encerrar sessão
 
 *** Test Cases ***
 Cenario: Login com sucesso 
